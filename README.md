@@ -38,5 +38,3 @@
     Click submit.
     If the name is null or the content length is less than 50, it will not be submitted.
     
-  
-      - Install dependencies
